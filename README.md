@@ -1,1 +1,1 @@
-This is a project of my java programming. Total project based on University System Manegement
+Here is Full Java programming concept, University System Management project and all Lab exercise
